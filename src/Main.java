@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class gMain {
+public class Main {
     public static void main(String[] args) {
         SalesManager salesManager = new SalesManager(new long[]{11, 21, 48, 34, 14, 1, 42,8});
         System.out.println();
